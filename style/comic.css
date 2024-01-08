@@ -1,0 +1,38 @@
+  *{
+    margin: 0;
+    padding: 0;
+  }
+  header{
+    background-color:  white
+  }
+  .first-section {
+    position: relative;
+    
+  } 
+  .first-section img{
+    max-width: 100%;
+    height: auto;
+    border-radius: 16px;    background: linear-gradient(hwb(0 7% 93%));
+    background-size:  cover;
+  }
+  .banner-text{
+    position: absolute;
+    top: 25%;
+    color: antiquewhite;
+    padding: 20px 400px;
+  }
+  .banner-text h1{
+    font-size: 85px;
+    font-weight: 800;
+    width: px;
+    height: 100px;
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  .banner-text h3{
+    font-size: 35px;
+    font-weight: 400;
+    text-align: center;
+
+
+  }
